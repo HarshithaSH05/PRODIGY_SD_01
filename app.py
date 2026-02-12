@@ -13,7 +13,8 @@ st.markdown("""
 <style>
 .main-title {text-align:center;font-size:40px;font-weight:bold;color:#ff4b4b;}
 .subtext {text-align:center;color:grey;margin-bottom:30px;}
-.result-box {background:#f0f2f6;padding:15px;border-radius:10px;margin:8px 0;font-size:18px;}
+.result-box {background:#e5dbff;padding:15px;border-radius:10px;margin:8px 0;font-size:18px;}
+}
 footer {text-align:center;margin-top:30px;color:grey;}
 </style>
 """, unsafe_allow_html=True)
@@ -75,3 +76,4 @@ if st.session_state.history:
 
 # ---------- Footer ----------
 st.markdown("<footer>Built with by Harshitha SH</footer>", unsafe_allow_html=True)
+
