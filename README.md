@@ -12,9 +12,13 @@ Celsius, Fahrenheit, and Kelvin.
 - Clean and structured Python code
 - Beginner-friendly and internship-ready
 
+## Live Demo
+
+The application is deployed and accessible here:
+
+https://appigysd01-aqcskihi5js6omppu9pghd.streamlit.app/
+
 ## How to Run
 ```bash
 python temperature_converter.py
 
-## APP link
-https://appigysd01-aqcskihi5js6omppu9pghd.streamlit.app/
